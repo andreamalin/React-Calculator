@@ -1,0 +1,59 @@
+body {
+    background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e57f8b1c-1c99-4f62-b6e7-9f3e3f9d958b/dehv1et-997d6833-3897-4791-8664-5576c25fbab0.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZTU3ZjhiMWMtMWM5OS00ZjYyLWI2ZTctOWYzZTNmOWQ5NThiXC9kZWh2MWV0LTk5N2Q2ODMzLTM4OTctNDc5MS04NjY0LTU1NzZjMjVmYmFiMC5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.8JJDZf72mU_F9V4VWnfpoVZ22xuPtWsmQ7XQnauZb0Y');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+}
+
+.calculator {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 600px;
+}
+
+.display {
+    text-align: right;
+    width: 160px;
+    height: 50px;
+    margin-bottom: 50px;
+    padding-right: 10px;
+    font-size: 30px;
+    word-wrap: break-word;
+}
+
+
+.numButton {
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 40px;
+    height: 40px;
+    border-style: none;
+    font-size: 18px;
+    color: white;
+    background-color: #6661E8;
+    outline: none;
+}
+
+.numButton:hover {
+    background-color: #61E8E4;
+}
+
+.signButton {
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    border-style: none;
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    background-color:#61E8E4;
+    outline: none;
+}
+
+.signButton:hover {
+    background-color: #6661E8;
+}
