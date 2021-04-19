@@ -6,7 +6,7 @@ Calculadora simple en React, con las funcionalidades de:
 * Multiplicar
 * Dividir
 
-<div align="center"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e57f8b1c-1c99-4f62-b6e7-9f3e3f9d958b/dei1u1n-6db9ddc7-4ca5-4447-9445-806c776a2c17.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZTU3ZjhiMWMtMWM5OS00ZjYyLWI2ZTctOWYzZTNmOWQ5NThiXC9kZWkxdTFuLTZkYjlkZGM3LTRjYTUtNDQ0Ny05NDQ1LTgwNmM3NzZhMmMxNy5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.v1Bk05wdNE3c2PQbo5GOcSGXOmXalcHcq7-bKhLO3j0" height="400">
+<div align="center"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e57f8b1c-1c99-4f62-b6e7-9f3e3f9d958b/dei1ub1-9a6a6fc2-1ca8-4dfd-96c9-bd0540dc112f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZTU3ZjhiMWMtMWM5OS00ZjYyLWI2ZTctOWYzZTNmOWQ5NThiXC9kZWkxdWIxLTlhNmE2ZmMyLTFjYTgtNGRmZC05NmM5LWJkMDU0MGRjMTEyZi5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.kZ5fB7IYKWMMfFD8mgJgJTDTaYNWk7Bshff-cDQ-yU0" height="500"></div>
 
 # Características
 * No permite operaciones con resultados mayores de 9 dígitos
